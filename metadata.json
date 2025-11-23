@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GlucoTrack",
+  "description": "A comprehensive GLP-1 companion app featuring medication tracking, AI food analysis, and holistic health monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
